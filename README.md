@@ -6,7 +6,15 @@
 - Docker
 - Google Coud services
 - Cryptodome
+- Express
+- React
+- Nextjs
 - MySQL
+
+# Want to Run the nodejs and frontend locally
+
+1. npm install next react react-dom
+2. npm run dev
 
 # Questions
 

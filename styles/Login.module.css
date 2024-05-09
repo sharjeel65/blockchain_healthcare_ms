@@ -1,0 +1,75 @@
+/* Login.module.css */
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .imageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .formContainer {
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .avatar {
+    width: 50px;
+    height: 50;
+    margin-bottom: 20px;
+  }
+  
+  .inputGroup {
+    margin-bottom: 20px;
+  }
+  
+  .inputGroup label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .inputGroup input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .submitButton {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .linkGroup {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+  }
+  
+  .linkGroup a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .linkGroup a:hover {
+    text-decoration: underline;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
