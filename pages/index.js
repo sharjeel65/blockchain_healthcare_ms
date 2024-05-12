@@ -1,5 +1,10 @@
+// pages/index.js
+
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
+import dotenv from 'dotenv';
+
+dotenv.config();  // Initialize dotenv
 
 const HomePage = () => {
   const router = useRouter();

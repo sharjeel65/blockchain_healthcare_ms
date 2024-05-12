@@ -14,7 +14,9 @@
 # Want to Run the nodejs and frontend locally
 
 1. npm install next react react-dom
-2. npm run dev
+2. npm install next express 
+3. npm un mysql && npm i mysql2                                                                                    
+4. npm run dev
 
 # Questions
 
