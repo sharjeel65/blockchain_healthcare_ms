@@ -4,3 +4,4 @@ credentials.json
 .next/
 /.next/
 node_modules/
+.idea
