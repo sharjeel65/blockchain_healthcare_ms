@@ -5,3 +5,4 @@ credentials.json
 /.next/
 node_modules/
 .idea
+venv/
